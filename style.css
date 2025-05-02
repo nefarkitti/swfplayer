@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+
+    font-family: "Kanit", sans-serif !important;
+    user-select: none;
+
+}
+
+body {
+    margin: 0;
+}
+
+.playHold {
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+ruffle-player {
+    width: 90vw;
+    height: 90vh;
+    outline: 3px solid black;
+}
+
+.listHold {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.listContainer {
+    width: 90%;
+    height: 90%;
+}
+#list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    margin-top: -30px;
+}
+#list a {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    margin: 5px 5px;
+    padding: 10px 20px;
+    background-color: rgb(235, 235, 235);
+    border-radius: 5px;
+    color: black;
+    box-shadow: 0px 0px 5px rgba(7, 7, 7, 0.158);
+    outline: 1px solid rgba(0, 0, 0, 0.103);
+    width: fit-content;
+    height: fit-content;
+    max-width: 120px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    transform: scale(100%);
+    transition: 0.2s;
+}
+#list a:hover {
+    background-color: rgb(224, 224, 224);
+    transform: scale(105%);
+    transition: 0.2s;
+}
+img.thumbnail {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+span.author {
+    font-size: 10px;
+}
+
+.collection {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 30px;
+}

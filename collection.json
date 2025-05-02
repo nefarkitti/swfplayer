@@ -1,0 +1,74 @@
+{
+
+    "papaswingeria": {
+        "name": "Papa's Wingeria",
+        "author": "Flipline Studios",
+        "collection": "Papa's Collection"
+    },
+    "papastacomia": {
+        "name": "Papa's Taco Mia!",
+        "author": "Flipline Studios",
+        "collection": "Papa's Collection"
+    },
+    "papaspizzeria": {
+        "name": "Papa's Pizzeria",
+        "author": "Flipline Studios",
+        "collection": "Papa's Collection"
+    },
+    "papasburgeria": {
+        "name": "Papa's Burgeria",
+        "author": "Flipline Studios",
+        "collection": "Papa's Collection"
+    },
+    "papascheeseria": {
+        "name": "Papa's Cheeseria",
+        "author": "Flipline Studios",
+        "collection": "Papa's Collection"
+    },
+    "papasbakeria": {
+        "name": "Papa's Bakeria",
+        "author": "Flipline Studios",
+        "collection": "Papa's Collection"
+    },
+    "papascupcakeria": {
+        "name": "Papa's Cupcakeria",
+        "author": "Flipline Studios",
+        "collection": "Papa's Collection"
+    },
+    "papasdonuteria": {
+        "name": "Papa's Donuteria",
+        "author": "Flipline Studios",
+        "collection": "Papa's Collection"
+    },
+    "papasfreezeria": {
+        "name": "Papa's Freezeria",
+        "author": "Flipline Studios",
+        "collection": "Papa's Collection"
+    },
+    "papashotdoggeria": {
+        "name": "Papa's Hotdoggeria",
+        "author": "Flipline Studios",
+        "collection": "Papa's Collection"
+    },
+    "papaspancakeria": {
+        "name": "Papa's Pancakeria",
+        "author": "Flipline Studios",
+        "collection": "Papa's Collection"
+    },
+    "papaspastaria": {
+        "name": "Papa's Pastaria",
+        "author": "Flipline Studios",
+        "collection": "Papa's Collection"
+    },
+    "papasscooperia": {
+        "name": "Papa's Scooperia",
+        "author": "Flipline Studios",
+        "collection": "Papa's Collection"
+    },
+    "papassushiria": {
+        "name": "Papa's Sushiria",
+        "author": "Flipline Studios",
+        "collection": "Papa's Collection"
+    }
+
+}
