@@ -16,7 +16,9 @@ window.addEventListener("DOMContentLoaded", () => {
             let ruffle = window.RufflePlayer.newest();
             let player = ruffle.createPlayer();
             let container = document.getElementById("container");
+            player.classList.add(id)
             container.appendChild(player);
+            
             player.ruffle().load(`./swfs/${id}.swf`);
 
         } else {

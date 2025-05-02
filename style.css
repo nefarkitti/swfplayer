@@ -87,3 +87,8 @@ span.author {
     font-weight: 700;
     font-size: 30px;
 }
+
+/*game window sizes*/
+.ducklife, .ducklife2, .ducklife3 {
+    width: 60vw;
+}
